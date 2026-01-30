@@ -3,5 +3,6 @@
   "version": "1",
   "url1": "https://example.com",
   "url2": "https://example.com",
-  "date": "2026-01-30"
+  "date": "2026-01-30",
+  "msg": "theres new update "
 }
