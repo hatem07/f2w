@@ -1,0 +1,7 @@
+{
+  "title": "Card memory game",
+  "version": "1.0.0",
+  "url1": "https://example.com",
+  "url2": "https://example.com",
+  "date": "2026-01-30"
+}
