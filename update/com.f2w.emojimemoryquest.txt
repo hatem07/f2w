@@ -1,6 +1,6 @@
 {
-  "title": "Card memory game",
-  "version": "1",
+  "title": "Emoji Memory Quest",
+  "version": "2",
   "url": "https://example.com",
   "date": "2026-01-30",
   "msg": "theres new update "
